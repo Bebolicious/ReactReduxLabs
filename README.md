@@ -1,6 +1,6 @@
 ## Scripts
 
-### `npm install -a
+### `npm install -a`
 
 Installera dependencies
 
